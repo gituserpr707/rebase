@@ -18,7 +18,6 @@ public class TestPoc {
         }
 
     public static void main(String args[]) {
-
         TestPoc testPoc = new TestPoc();
         testPoc.displayVersion(01);
         testPoc.displayManufacturedDate("02-11-23");
